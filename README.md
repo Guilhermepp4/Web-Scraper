@@ -112,12 +112,12 @@ python scraper.py
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por Guilherme Pinho (projeto freelance)
-
----
-
 ## 📜 Licença
 
 Projeto sob autorização do cliente.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por Guilherme Pinho (projeto freelance)
